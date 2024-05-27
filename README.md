@@ -1,1 +1,1 @@
-Description TBD
+This repository holds a thorough exercise on how to build up a MLOps pipeline.
